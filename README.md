@@ -1,3 +1,8 @@
+<img width="514" height="292" alt="Screenshot 2026-05-21 175344" src="https://github.com/user-attachments/assets/e1643bc6-707a-4f2d-8f04-286ef136bb6a" />
+<img width="321" height="253" alt="Screenshot 2026-05-21 175338" src="https://github.com/user-attachments/assets/4ab7a81f-0370-4cbc-bef8-cc27d2f7828b" />
+<img width="469" height="296" alt="Screenshot 2026-05-21 175327" src="https://github.com/user-attachments/assets/8d8c0908-a134-4e91-86fc-ce096d486db2" />
+<img width="838" height="287" alt="Screenshot 2026-05-21 175316" src="https://github.com/user-attachments/assets/ade13a96-cc1e-4e42-82fe-8f8b488df766" />
+<img width="714" height="559" alt="Screenshot 2026-05-21 175257" src="https://github.com/user-attachments/assets/7f4f4093-ef75-41b8-b705-03d71de7c216" />
 # Telco Churn Analytics — Predictive ML Modeling & Retention Campaign ROI
 
 Customer churn is one of the biggest financial leaks in the telecommunications industry. Acquiring a new customer costs significantly more than retaining an existing one. Without automated, predictive insights, companies struggle to identify at-risk users in time, leading to massive revenue losses and inefficient marketing spend.
